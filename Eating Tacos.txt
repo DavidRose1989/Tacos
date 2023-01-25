@@ -2,3 +2,6 @@ Get the Taco SHell
 Put meat
 Put cheese
 put lettuce, tomato, onion
+Eat the taco.
+Invite friends to eat tacos.
+Order Dessert.
